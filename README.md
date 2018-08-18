@@ -1,5 +1,14 @@
-dynamodb-localhost
+dynamodb-localhost-2
 =================================
+
+This is a fork of the dynamodb-localhost module.  It was forked and made public because I REALLY needed
+to have the latest changes pushed into the NPM package.  Hopefully, the need for the present version
+will disappear once the maintainer of the original package update it.
+
+The original can be found at: https://github.com/99xt/dynamodb-localhost
+
+Thanks
+
 [![Join the chat at https://gitter.im/99xt/dynamodb-localhost](https://badges.gitter.im/99xt/dynamodb-localhost.svg)](https://gitter.im/99xt/dynamodb-localhost?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm version](https://badge.fury.io/js/dynamodb-localhost.svg)](https://badge.fury.io/js/dynamodb-localhost)
 [![license](https://img.shields.io/npm/l/dynamodb-localhost.svg)](https://www.npmjs.com/package/dynamodb-localhost)

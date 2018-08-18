@@ -1,15 +1,17 @@
 {
-    "name": "dynamodb-localhost",
-    "version": "0.0.5",
+    "name": "dynamodb-localhost-2",
+    "version": "0.0.1",
     "engines": {
         "node": ">=4.0"
     },
-    "description": "Dynamodb local plugin for devops",
-    "author": "99xtechnology.com",
+    "description": "Dynamodb local plugin for devops.  This is a fork of the dynamodb-localhost.
+    Hopefully this fork will become unecessary once the original project releases a newer
+    version.",
+    "author": "mbeauvais@reacticity.com",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/99xt/dynamodb-localhost"
+        "url": "https://github.com/mbeauv/dynamodb-localhost"
     },
     "keywords": [
     "aws",
